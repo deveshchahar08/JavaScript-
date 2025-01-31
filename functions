@@ -1,3 +1,20 @@
+=> Functions
+1. simple-Function => use with function keyword
+2. Anonomous function => No use function keyword
+3. Arrow function => it a modern funtion , used with arrow
+4. IIFE => when we create it automatical execute (immediately invoked function expresstion)
+5. recerrive function => step by step solve the problem
+6. constructor function => that function use new keyword
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.Simple function
+
+function today(a,b,c){
+    let sum = a+b+c
+    console.log(sum)
+}
+today(5,6,4)
+
 //Anonymous Function
 
 // let add = function(a,b){
