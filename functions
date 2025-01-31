@@ -123,7 +123,9 @@ today(5,6,4)
 // }
 // mod(82,3)
 
+
 //Recursive Functions
+
 
 // function today(n){
 //     if (n===200){
@@ -135,6 +137,7 @@ today(5,6,4)
 // }
 // today(100)
 
+
 // function lala(l){
 //     if (l===500){
 //     console.log("execute")
@@ -144,6 +147,7 @@ today(5,6,4)
 //     lala(l+50)
 // }
 // lala(100)
+
 
 // function tom(y){
 //     if (y===100){
@@ -165,3 +169,19 @@ today(5,6,4)
 //     pro(n-10)
 // }
 // pro(200)
+
+
+// function top(y){
+//     if(y===31){
+//         console.log("code execute sucessfully")
+//         return
+//     }
+//     if(y%2==0){
+//     console.log(y,"even")
+//     }
+//     else{
+//         console.log(y,"odd")
+//     }
+//     top(y+1)
+// }
+// top(20)
