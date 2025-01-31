@@ -185,3 +185,19 @@ today(5,6,4)
 //     top(y+1)
 // }
 // top(20)
+
+
+function today(p){
+//     if (p===50){
+//     console.log("done")
+//     return
+//     }
+//     if(p<20==0){
+//         console.log(p,"greater then 20")
+//     }
+//     else{
+//         console.log(p,"not greater then 20")
+//     }
+//     today(p+1)
+// }
+// today(10)
